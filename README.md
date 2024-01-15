@@ -5,5 +5,5 @@ Kamino (pronounced `/kə'minoʊ/`) was an aquatic planet located in a remote sta
 3D Printing Projects Repository.
 
 ## Projects
-- [Mclaren F1 - Wall Mount, October 2022](mclaren_f1)
-- [Power Bank Holder, January 2024](battery_holder)
+- [Mclaren F1 - Wall Mount, October 2022](projects/mclaren_f1)
+- [Power Bank Holder, January 2024](projects/battery_holder)
